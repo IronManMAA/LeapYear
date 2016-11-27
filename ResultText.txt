@@ -1,0 +1,2 @@
+
+The year of %@Y have %@M months, %@D days, %@H hours, %@S seconds and is %@L .
